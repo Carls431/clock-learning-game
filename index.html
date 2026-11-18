@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Clock Learning Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button class="sound-btn" id="soundBtn">🔊</button>
+    
+    <div class="container">
+        <div class="game-area">
+            <div class="clock-container">
+                <div class="clock">
+                    <div class="clock-face" id="clockFace">
+                        <div class="number number-12">12</div>
+                        <div class="number number-1">1</div>
+                        <div class="number number-2">2</div>
+                        <div class="number number-3">3</div>
+                        <div class="number number-4">4</div>
+                        <div class="number number-5">5</div>
+                        <div class="number number-6">6</div>
+                        <div class="number number-7">7</div>
+                        <div class="number number-8">8</div>
+                        <div class="number number-9">9</div>
+                        <div class="number number-10">10</div>
+                        <div class="number number-11">11</div>
+                        
+                        <div class="digital-display" id="digitalDisplay">
+                            <span id="displayHour">12</span>:<span id="displayMinute">00</span>
+                        </div>
+                        
+                        <div class="center-dot"></div>
+                        <div class="hand hour-hand" id="hourHand"></div>
+                        <div class="hand minute-hand" id="minuteHand"></div>
+                        
+                        <div class="start-screen">
+                            <img src="start.png" alt="Start Button" class="start-btn" id="startBtn">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="instruction" id="instruction"></div>
+            
+            <div class="controls">
+                <button class="control-btn" id="checkBtn">Check Answer</button>
+                <button class="control-btn" id="nextBtn" style="display: none;">Next Question</button>
+            </div>
+            
+            <div class="feedback" id="feedback"></div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

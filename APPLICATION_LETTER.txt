@@ -1,0 +1,28 @@
+Subject: Application for JavaScript / HTML / CSS Developer Position
+
+Dear Hiring Team,
+
+I am applying for the JavaScript / HTML / CSS Developer position at Darkoki. I have practical experience in building interactive web applications using JavaScript, HTML, and CSS.
+
+For the trial task, I have completed the interactive clock learning game as requested. The project includes:
+- Interactive analog clock with draggable hands
+- Digital time display
+- Audio integration for educational instructions
+- Responsive design for all devices
+- Start/check/next functionality
+
+**Working Preview Link:** [INSERT YOUR PREVIEW LINK HERE]
+**Time Estimate:** Approximately 2-3 hours to complete
+
+**Tools Used:**
+- HTML5
+- CSS3 (with animations and responsive design)
+- JavaScript (vanilla)
+- Python (for local testing server)
+
+I am comfortable with the rate of $3.00 USD per hour for around 20 hours per week. I can start immediately and am available to work part-time as specified.
+
+I look forward to the opportunity to contribute to your educational content development.
+
+Best regards,
+[Your Name]
